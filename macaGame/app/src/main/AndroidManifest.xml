@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MacaGame">
+        <activity android:name=".firstlevel.KnowingO"></activity>
+        <activity android:name=".firstlevel.KnowingE" />
+        <activity android:name=".firstlevel.KnowingU" />
+        <activity android:name=".firstlevel.KnowingI" />
+        <activity android:name=".firstlevel.KnowingA" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
